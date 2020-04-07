@@ -1,0 +1,112 @@
+{
+ 
+    "data": [
+        {
+            "heading_name": "Name",
+            "details": [
+                {
+                    "sub_title": "Name",
+                    "type": "free_text",
+                    "option": [
+                    
+                    ],
+                    "value_selected":""
+                }
+              
+            ]
+        },
+        {
+            "heading_name": "Email",
+            "details": [
+                {
+                    "sub_title": "weights (kg)",
+                    "type": "free_text",
+                    "option": [
+
+                    ],
+                    "value_selected":""
+                }
+            ]
+        },
+        {
+            "heading_name": "Address",
+            "details": [
+                {
+                    "sub_title": "Address",
+                    "type": "free_text",
+                    "option": [
+                        
+                    ],
+                    "value_selected":""
+                }
+               
+            ]
+        },
+        {
+            "heading_name": "Gender",
+            "details": [
+                {
+                    "sub_title": "Gender",
+                    "type": "radio",
+                    "option": [
+                        "Male",
+                        "Female"
+                    ],
+                    "value_selected":""
+                }
+                
+            ]
+        },
+        {
+            "heading_name": "DOB",
+            "details": [
+                {
+                    "sub_title": "Date of Birth",
+                    "type": "datepicker",
+                    "option": [
+                       
+                    ],
+                    "value_selected":""
+                }
+                
+            ]
+        },
+        {
+            "heading_name": "Skills",
+            "details": [
+                {
+                    "sub_title": "Skills",
+                    "type": "checkbox",
+                    "option": [
+                        "Android",
+                        "iOS",
+                        "Flutter",
+                        "Java",
+                        "Kotlin",
+                        "Swift",
+                        "Dart"
+                    ],
+                    "value_selected":""
+                }
+                
+            ]
+        },
+        {
+        "heading_name": "Profile",
+        "details": [
+            {
+                "sub_title": "Select your Profile",
+                "type": "spinner",
+                "option": [
+                    "Android Developer",
+                    "iOS Developer",
+                    "Java Developer"
+                ],
+                "value_selected":""
+            }
+            
+        ]
+        }
+        
+    ]
+}
